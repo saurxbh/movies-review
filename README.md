@@ -45,17 +45,21 @@ Follow these steps to set up and run the application locally:
 ## Execution
 
 - A carousel of movies is displayed in the header section, which contains movie posters, and links to watch the movie trailer and post reviews about the movie.
+
 ![image](images/carousel.png)
 ![image](images/carousel2.png)
 
 - You can watch the trailer of a movie in the media player.
+  
 ![image](images/trailer.png)
 
 - You can write reviews about the movies.
+  
 ![image](images/writing-a-review1.png)
 ![image](images/review-posted.png)
 
 - Your review gets added to the list of reviews and all reviews of a movie are displayed.
+  
 ![image](images/writing-a-review2.png)
 ![image](images/review-posted2.png)
 

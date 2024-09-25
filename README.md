@@ -15,6 +15,7 @@ Before you begin, ensure you have met the following requirements:
 - Java Development Kit (JDK) installed.
 - Node.js and npm installed.
 - I used VS Code for React frontend, IntelliJ for Spring Boot backend, but you can use any IDEs of your choice.
+- I used Postman for API testing.
 
 ## Setup Instructions  
 
